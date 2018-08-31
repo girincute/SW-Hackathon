@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_noti_btn"
+            android:icon="@drawable/noti_list"
+            android:title="알림 목록 보기" />
+
+        <item
+            android:id="@+id/navigation_setting_btn"
+            android:icon="@drawable/baseline_settings_20px"
+            android:title="설정" />
+
+        <item
+            android:id="@+id/navigation_logout_btn"
+            android:icon="@drawable/baseline_power_settings_new_24px"
+            android:title="로그아웃"/>
+
+    </group>
+</menu>

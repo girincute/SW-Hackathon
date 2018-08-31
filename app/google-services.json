@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "44109606900",
+    "firebase_url": "https://amber-865d4.firebaseio.com",
+    "project_id": "amber-865d4",
+    "storage_bucket": "amber-865d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44109606900:android:9a08ec9f50617a51",
+        "android_client_info": {
+          "package_name": "com.example.woopa.sw_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44109606900-c6ar1br0sicse3cmq8ag21ril5q9sptc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmmCegBaNwG0T-omRu8RXUyBT3zVH1j7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
